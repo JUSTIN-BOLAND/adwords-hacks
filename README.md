@@ -34,6 +34,15 @@
 - [How to Make Display Convert Like Crazy](https://www.rankhammer.com/blog/1746/make-display-campaigns-convert-like-crazy)
 - [$5,671,300 Reasons Why You Should Test Google Text Ads](http://www.adbeat.com/blog/google-text-ads)
 
+--
+
+### Books/Courses
+
+- [Ultimate Guide to Google AdWords](https://www.amazon.com/Ultimate-Guide-Google-AdWords-Billion/dp/1599185423)
+- [Advanced Google AdWords](https://www.amazon.com/Advanced-Google-AdWords-Brad-Geddes/dp/111881956X)
+- Traffic Blackbook, by Chad Hamzeh
+- Adwords Buddy, by John Crestani
+
 ---
 
 ### Tools
