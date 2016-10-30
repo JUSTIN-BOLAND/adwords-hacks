@@ -22,7 +22,7 @@
 - [Going Unicorn Hunting: The Secrets Behind Ads with 3x the Average CTR](http://www.wordstream.com/blog/ws/2014/02/11/average-click-through-rate)
 - [10 Best PPC Marketing Hacks of All Time](http://www.slideshare.net/WordStream/the-top-10-ppc-hacks-of-all-time-larry-kims-presentation-for-state-of-search-2014-in-dallas-tx)
 - [Hacking the Google Display Network for Insanely Low CPC](https://searchenginewatch.com/sew/how-to/2401503/hacking-the-google-display-network-for-insanely-low-cpc)
-- [7 Steps to Master to the Google Display Network](http://www.wordstream.com/blog/ws/2014/11/18/google-display-network-tips)
+- [7 Steps to Master the Google Display Network](http://www.wordstream.com/blog/ws/2014/11/18/google-display-network-tips)
 
 ---
 
