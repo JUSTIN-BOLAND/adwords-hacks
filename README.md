@@ -3,6 +3,7 @@ Hacking Google Adwords
 
 - [Adwords Entities](https://developers.google.com/adwords/scripts/docs/features/entities)
 - [Campaigns](https://developers.google.com/adwords/scripts/docs/examples/campaigns)
+
 ---
 
 - [Free Adwords Scripts](http://freeadwordsscripts.com)
@@ -13,7 +14,6 @@ Hacking Google Adwords
 - [Unbounce's Landing Page Conversion Course](http://do.thelandingpagecourse.com)
 - [Conversion Rate Optimization](https://gist.github.com/dypsilon/a76342df9690e82a5143)
 - [100 Conversion Optimization Case Studies](https://blog.kissmetrics.com/100-conversion-optimization-case-studies)
-- 
 
 ---
 
