@@ -38,10 +38,9 @@
 
 ### Books/Courses
 
-- [Ultimate Guide to Google AdWords](https://www.amazon.com/Ultimate-Guide-Google-AdWords-Billion/dp/1599185423)
-- [Advanced Google AdWords](https://www.amazon.com/Advanced-Google-AdWords-Brad-Geddes/dp/111881956X)
+- [Ultimate Guide to Google AdWords, by Perry Marshall](https://www.amazon.com/Ultimate-Guide-Google-AdWords-Billion/dp/1599185423)
+- [Advanced Google AdWords, by Brad Geddes](https://www.amazon.com/Advanced-Google-AdWords-Brad-Geddes/dp/111881956X)
 - Traffic Blackbook, by Chad Hamzeh
-- Adwords Buddy, by John Crestani
 
 ---
 
