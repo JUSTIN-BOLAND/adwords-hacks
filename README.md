@@ -26,6 +26,8 @@
 
 ---
 
+- [How to Create a Profitable Google AdWords Campaign](https://blog.kissmetrics.com/profitable-google-adwords-campaign)
+- [25 Fast Facts About AdWords](http://www.wordstream.com/blog/ws/2012/08/13/google-adwords-facts)
 - [How To Choose Profitable Publishers For Your Display Campaigns](http://www.adbeat.com/blog/how-to-choose-publishers-advertising-campaigns)
 - [Write Higher Converting Display Ads With These 8 Formulas](http://www.adbeat.com/blog/write-higher-converting-display-ads-with-these-8-formulas)
 - [The Ultimate Guide to Google Adwords Quality Score](http://www.ppchero.com/ultimate-guide-to-adwords-quality-score)
