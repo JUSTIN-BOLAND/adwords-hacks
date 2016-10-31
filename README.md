@@ -57,4 +57,4 @@
 - [MaxCDN](https://maxcdn.com)
 - [Uptime Robot](http://uptimerobot.com)
 - [Clicky](https://clicky.com)
-- [Google Analytics Dashboards](https://econsultancy.com/blog/62828-10-useful-google-analytics-custom-dashboards)
+- [Google Analytics dashboards](https://econsultancy.com/blog/62828-10-useful-google-analytics-custom-dashboards)
