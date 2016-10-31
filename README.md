@@ -52,7 +52,7 @@
 - [WhatRunsWhere](https://www.whatrunswhere.com)
 - [SimilarWeb](https://www.similarweb.com)
 - [Lucky Orange](http://luckyorange.com)
-- [Hotjar](https://whotjar.com)
+- [Hotjar](https://hotjar.com)
 - [GTmetrix](https://gtmetrix.com)
 - [MaxCDN](https://maxcdn.com)
 - [Uptime Robot](http://uptimerobot.com)
