@@ -43,7 +43,7 @@
 - [Ultimate Guide to Google Adwords, by Perry Marshall](https://amazon.com/Ultimate-Guide-Google-AdWords-Billion/dp/1599185423)
 - [Advanced Google Adwords, by Brad Geddes](https://amazon.com/Advanced-Google-AdWords-Brad-Geddes/dp/111881956X)
 - [DotCom Secrets, by Russell Brunson](https://amazon.com/DotCom-Secrets-Underground-Playbook-Growing/dp/1630474770)
-- [Invisible Selling Machine, by Ryan Deiss)(https://wamazon.com/Invisible-Selling-Machine-Ryan-Deiss-ebook/dp/B00VXC226E)
+- [Invisible Selling Machine, by Ryan Deiss](https://wamazon.com/Invisible-Selling-Machine-Ryan-Deiss-ebook/dp/B00VXC226E)
 - [Traction, by Gabriel Weinberg](https://amazon.com/Traction-Startup-Achieve-Explosive-Customer/dp/1591848369)
 - [Influence: The Psychology of Persuasion, by Robert B. Cialdini](https://amazon.com/Influence-Psychology-Persuasion-Business-Essentials-ebook/dp/B002BD2UUC)
 - Traffic Blackbook, by Chad Hamzeh
