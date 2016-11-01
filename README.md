@@ -52,6 +52,7 @@
 - [WhatRunsWhere](https://www.whatrunswhere.com)
 - [SimilarWeb](https://www.similarweb.com)
 - [SpyFu](http://spyfu.com)
+- [Google Display Planner](https://adwords.google.com/da/DisplayPlanner/Home)
 - [Google Keyword Planner](https://adwords.google.com/KeywordPlanner)
 - [Lucky Orange](http://luckyorange.com)
 - [Hotjar](https://hotjar.com)
