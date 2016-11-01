@@ -51,6 +51,8 @@
 - [Adbeat](http://adbeat.com)
 - [WhatRunsWhere](https://www.whatrunswhere.com)
 - [SimilarWeb](https://www.similarweb.com)
+- [SpyFu](http://spyfu.com)
+- [Google Keyword Planner](https://adwords.google.com/KeywordPlanner)
 - [Lucky Orange](http://luckyorange.com)
 - [Hotjar](https://hotjar.com)
 - [GTmetrix](https://gtmetrix.com)
