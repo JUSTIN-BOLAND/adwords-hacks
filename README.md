@@ -37,7 +37,6 @@
 - [How to Make Display Convert Like Crazy](https://www.rankhammer.com/blog/1746/make-display-campaigns-convert-like-crazy)
 - [$5,671,300 Reasons Why You Should Test Google Text Ads](http://www.adbeat.com/blog/google-text-ads)
 
---
 
 ### Marketing Books & Courses
 
@@ -49,7 +48,7 @@
 
 ---
 
-# Sales
+### Sales
 
 - [SalesHacker](https://saleshacker.com)
 - [Good Sales Emails](http://goodsalesemails.com)
