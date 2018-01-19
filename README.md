@@ -47,9 +47,9 @@
 - [Digital Marketer](https://digitalmarketer.com/products)
 - Traffic Blackbook, by Chad Hamzeh
 
---
+---
 
-### Sales
+# Sales
 
 - [SalesHacker](https://saleshacker.com)
 - [Good Sales Emails](http://goodsalesemails.com)
