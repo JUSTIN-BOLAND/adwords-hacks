@@ -1,6 +1,5 @@
 # adwords-hacks
 
-## Hacking Google Adwords
 
 - [Adwords Entities](https://developers.google.com/adwords/scripts/docs/features/entities)
 - [Campaigns](https://developers.google.com/adwords/scripts/docs/examples/campaigns)
@@ -50,7 +49,7 @@
 
 ### Sales
 
-- [SalesHacker](https://saleshacker.com)
+- [Sales Hacker](https://saleshacker.com)
 - [Good Sales Emails](http://goodsalesemails.com)
 - [Direct Sales For Bootstrapped SaaS Startups](http://nathanbarry.com/sales)
 - [SPIN Selling, by Neil Rackham](https://www.amazon.com/SPIN-Selling-Neil-Rackham/dp/0070511136)
