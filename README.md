@@ -16,6 +16,7 @@
 - [Unbounce's Landing Page Conversion Course](http://do.thelandingpagecourse.com)
 - [Conversion Rate Optimization](https://gist.github.com/dypsilon/a76342df9690e82a5143)
 - [100 Conversion Optimization Case Studies](https://blog.kissmetrics.com/100-conversion-optimization-case-studies)
+- [10 Useful Google Analytics Custom Dashboards](https://econsultancy.com/blog/62828-10-useful-google-analytics-custom-dashboards)
 
 ---
 
@@ -38,16 +39,29 @@
 
 --
 
-### Books/Courses
+### Marketing Books & Courses
 
 - [Ultimate Guide to Google Adwords, by Perry Marshall](https://amazon.com/Ultimate-Guide-Google-AdWords-Billion/dp/1599185423)
+- [Ultimate Guide to Facebook Advertising, by Perry Marshall](https://www.amazon.com/Ultimate-Guide-Facebook-Advertising-Potential/dp/159918611X)
 - [Advanced Google Adwords, by Brad Geddes](https://amazon.com/Advanced-Google-AdWords-Brad-Geddes/dp/111881956X)
+- [Digital Marketer](https://digitalmarketer.com/products)
 - Traffic Blackbook, by Chad Hamzeh
+
+--
+
+### Sales
+
+- [SalesHacker](https://saleshacker.com)
+- [Good Sales Emails](http://goodsalesemails.com)
+- [Direct Sales For Bootstrapped SaaS Startups](http://nathanbarry.com/sales)
+- [SPIN Selling, by Neil Rackham](https://www.amazon.com/SPIN-Selling-Neil-Rackham/dp/0070511136)
+- [How to Master the Art of Selling, by Tom Hopkins](https://www.amazon.com/How-Master-Art-Selling-Hopkins/dp/0446692743)
 
 ---
 
 ### Tools
 
+- [Unbounce](https://unbounce.com)
 - [Adbeat](http://adbeat.com)
 - [WhatRunsWhere](https://www.whatrunswhere.com)
 - [SimilarWeb](https://www.similarweb.com)
@@ -60,4 +74,5 @@
 - [MaxCDN](https://maxcdn.com)
 - [Uptime Robot](http://uptimerobot.com)
 - [Clicky](https://clicky.com)
-- [Google Analytics dashboards](https://econsultancy.com/blog/62828-10-useful-google-analytics-custom-dashboards)
+- [Supermetrics](http://supermetrics.com)
+- [Swydo](https://www.swydo.com)
