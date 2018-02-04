@@ -55,6 +55,7 @@
 - [SPIN Selling, by Neil Rackham](https://www.amazon.com/SPIN-Selling-Neil-Rackham/dp/0070511136)
 - [How to Master the Art of Selling, by Tom Hopkins](https://www.amazon.com/How-Master-Art-Selling-Hopkins/dp/0446692743)
 - [How to Sell Anything to Anybody, by Joe Girard](https://www.amazon.com/How-Sell-Anything-Anybody-Girard/dp/0743273966)
+- [Predictable Revenue, by Aaron Ross](https://www.amazon.com/gp/product/0984380213) 
 
 ---
 
