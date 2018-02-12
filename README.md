@@ -42,6 +42,7 @@
 - [Ultimate Guide to Google Adwords, by Perry Marshall](https://amazon.com/Ultimate-Guide-Google-AdWords-Billion/dp/1599185423)
 - [Ultimate Guide to Facebook Advertising, by Perry Marshall](https://www.amazon.com/Ultimate-Guide-Facebook-Advertising-Potential/dp/159918611X)
 - [Advanced Google Adwords, by Brad Geddes](https://amazon.com/Advanced-Google-AdWords-Brad-Geddes/dp/111881956X)
+- [Cashvertising, by Drew Eric Whitman](https://amazon.com/CA-HVERTISING-Ad-Agency-Psychology-Anything/dp/1601630328)
 - [Digital Marketer](https://digitalmarketer.com/products)
 - Traffic Blackbook, by Chad Hamzeh
 
