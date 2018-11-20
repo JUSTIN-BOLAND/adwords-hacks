@@ -53,6 +53,7 @@
 - [Sales Hacker](https://saleshacker.com)
 - [Good Sales Emails](http://goodsalesemails.com)
 - [Direct Sales For Bootstrapped SaaS Startups](http://nathanbarry.com/sales)
+- [Sell It Like Serhant, by Ryan Serhant](https://www.amazon.com/Sell-Like-Serhant-Ultimate-Machine/dp/0316449571)
 - [SPIN Selling, by Neil Rackham](https://www.amazon.com/SPIN-Selling-Neil-Rackham/dp/0070511136)
 - [How to Master the Art of Selling, by Tom Hopkins](https://www.amazon.com/How-Master-Art-Selling-Hopkins/dp/0446692743)
 - [How to Sell Anything to Anybody, by Joe Girard](https://www.amazon.com/How-Sell-Anything-Anybody-Girard/dp/0743273966)
